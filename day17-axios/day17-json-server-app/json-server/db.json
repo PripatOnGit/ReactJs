@@ -1,0 +1,18 @@
+{
+  "userProfile": [
+    {
+      "id": 1,
+      "firstName": "Priyanka",
+      "lastName": "Patil",
+      "emailId": "p.p24@gmail.com",
+      "location": "Banglore"
+    },
+    {
+      "firstName": "Abhijeet",
+      "lastName": "Kuwar",
+      "emailId": "a.mail24@gmail.com",
+      "location": "Hyderbad",
+      "id": 2
+    }
+  ]
+}
